@@ -15,8 +15,10 @@ It contains all the roms that can also be found in colors.ini.
 This is a new file format that is intended to replace controls.ini and colors.ini in newer ledspicer versions. 
 It contains the same information as colors.in and controls.ini.
 
-## License
+## special settings
+You can find alternative layout versions of the ini files here. See reference picture in same directory.
 
+## License
 All changes and contributions in this repository are licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 ```
 http://www.apache.org/licenses/LICENSE-2.0
