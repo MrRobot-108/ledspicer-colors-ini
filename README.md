@@ -1,6 +1,12 @@
 # ledspicer-colors-ini
 This repository contains the files colors.ini and controls.ini used by ledspicer as color database for arcade games.
 
+LEDSpicer is a versatile linear LED controller daemon from **meduzapat** designed for managing single-color or RGB LEDs across various devices.
+With LEDSpicer, you can effortlessly execute captivating animations and profiles, providing a dynamic and visually appealing experience. The daemon seamlessly integrates with user input, allowing interactive control over the LEDs. What sets LEDSpicer apart is its ability to trigger profiles based on diverse events, including user input, network interactions, or specific game names. It seamlessly integrates with MAME events, enabling precise control of LEDs based on in-game actions.
+Moreover, LEDSpicer goes beyond mere illumination by offering support for joystick restrictors and rotators.
+
+https://github.com/meduzapat/LEDSpicer
+
 ## colors.ini
 Colors.ini (starting with a capital letter) was originally created by headkaze and updated by kpshek. It has been used as the basis for other similar color configuration files/utilities.
 I used this file as the basis for my own colors.ini file.
