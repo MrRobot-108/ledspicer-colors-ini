@@ -10,7 +10,7 @@ https://github.com/meduzapat/LEDSpicer
 ## colors.ini
 Colors.ini (starting with a capital letter) was originally created by headkaze and updated by kpshek. It has been used as the basis for other similar color configuration files/utilities.
 I used this file as the basis for my own colors.ini file.
-The base file from kpshek had 1422 roms included, mine has 2773 for the first version (VERSION 03/30/24). The format is slightly different, I generated a new one.
+The base file from kpshek had 1422 roms included, mine had 2773 for the first version (VERSION 03/30/24), actual ROM count is over 10000. The format is slightly different, I generated a new one.
 Most additional entries refer to information from the website http://adb.arcadeitalia.net/, some come from users Kjell and SK360 (THX!).
 
 ## controls.ini
