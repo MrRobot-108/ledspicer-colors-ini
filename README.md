@@ -17,10 +17,6 @@ Most additional entries refer to information from the website http://adb.arcadei
 controls.ini only contains information necessary for ledspicer and has nothing to do with the ledblinky file Controls.ini. 
 It contains all the roms that can also be found in colors.ini.
 
-## ledspicer.ini
-This is a new file format that is intended to replace controls.ini and colors.ini in newer ledspicer versions. 
-It contains the same information as colors.in and controls.ini.
-
 ## special settings
 You can find alternative layout versions of the ini files here. See reference picture in same directory.
 
